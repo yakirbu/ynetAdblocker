@@ -1,4 +1,4 @@
-# ynetAdblock
+# ynetAdblocker
 Ynet Adblocker - the only one that currently works. 
 You can download directly from Chrome store:
 
